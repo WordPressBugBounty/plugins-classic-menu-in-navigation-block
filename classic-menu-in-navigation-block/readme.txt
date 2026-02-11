@@ -5,7 +5,7 @@ Donate link:       https://www.webmandesign.eu/contact/#donation
 Author URI:        https://www.webmandesign.eu
 Plugin URI:        https://www.webmandesign.eu/portfolio/classic-menu-in-navigation-block-wordpress-plugin/
 Requires at least: 6.2
-Tested up to:      6.8
+Tested up to:      6.9
 Requires PHP:      7.0
 Stable tag:        1.0.5
 License:           GPL-3.0-or-later
